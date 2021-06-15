@@ -1,0 +1,12 @@
+{
+  "name": "MusicFlashCards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "css": "node-sass -w styles.scss index.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "private"
+}
